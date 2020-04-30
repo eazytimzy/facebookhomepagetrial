@@ -1,0 +1,172 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+header {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color:#3b5998;
+display: flex;
+padding: 1px;
+}
+
+.dot1  {
+display: flex;
+margin-left: 450px;
+padding: 1px;
+
+}
+
+#facebook {
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 250px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.dot1 input{
+ height: 20px;
+}
+
+.pass1 {
+    margin-right: 20px;
+}
+
+label   {
+color: white;
+font-size: 12px;
+}
+.pass2 button{
+    color: white;
+    background-color: #3b6999;
+    /* border: none; */
+    font-size: bold;
+    padding: 4px;
+    margin-left: 5px;
+    border-radius: 2.5px 2.5px 2.5px 2.5px;
+    border-style: inset;
+    border: #3b5998;
+    
+}
+ #forg {
+     font-size: 12px;
+    color:#E9ebee;
+     text-decoration: none;
+ }
+
+ img {
+     height: auto;
+     width: 500px;
+ }
+ .text {
+     font-size: 20px;
+     font-weight:bold;
+     color:#002b40;
+     margin-top: -100px;
+     margin-left: 100px;
+     
+ }
+ section {
+display: flex;
+flex-direction: row;
+padding: 150px;
+background-color: #E9ebee;;
+ }
+
+ .form2{
+/* font-size: 20px; */
+display:flex;
+margin-top: -100px;
+margin-left: 100px;
+
+/* font-size: 18px; */
+
+ }
+.form2 input {
+    width: 400px;
+    height: 40px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px 5px 5px 5px;
+   border-width: 1px 1px 1px 1px;
+font-size: 18px;
+
+}
+
+.box input {
+    width: 200px;
+    
+}
+
+ .gender input{
+     width: 10px;
+     height: 15px;
+     padding: 2px;
+ }
+.click p {
+    font-size: 12px;
+    color:#90949c;   
+    padding: 5px;
+    display: block;
+}
+section button {
+background-color: #1e9b3f;
+padding: 0px;
+width: 200px;
+color: white;
+font-style: bolder;
+font-size: 20px;
+border-radius: 10px 10px 10px 10px;
+border: none;
+height:8%;
+margin-top: 10px;
+
+
+}
+section a {
+    font-style: bolder;
+color:#3b5998;
+text-decoration: none;
+padding: 5px;
+}
+h1 {
+    font-size: 30px;
+}
+h4 {
+    color: grey;
+    margin-bottom: -7px;
+}
+h5 {
+    margin-top: 40px;
+    color: grey;
+}
+#quick {
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+footer  {
+    background-color: whitesmoke;
+    margin-top: -50px;
+    padding: 50px;
+    font-size: 12px;
+    text-decoration: none;
+    padding-left: 300px;
+    color:#3b5998;
+
+}
+footer a {
+text-decoration: none;
+color:#3b5998;
+display: inline;
+padding: 15px;
+}
+#end {
+    color: grey;
+}
